@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>a2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="a2">
+            <g id="Group-16">
+                <g id="Group-11">
+                    <g id="Group-10">
+                        <g id="Group-21">
+                            <g id="thin-0064-bullet-list-view">
+                                <g id="Layer_1">
+                                    <g id="Group" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" stroke-width="2">
+                                        <path d="M47.9583333,4.96875 C47.9583333,2.2475 45.7520833,0.0416666667 43.0308333,0.0416666667 L4.969375,0.0416666667 C2.24791667,0.0416666667 0.0416666667,2.24770833 0.0416666667,4.96875 L0.0416666667,43.03125 C0.0416666667,45.7525 2.24791667,47.9583333 4.96916667,47.9583333 L43.030625,47.9583333 C45.7520833,47.9583333 47.958125,45.7522917 47.958125,43.03125 L47.958125,4.96875 L47.9583333,4.96875 Z" id="Shape"></path>
+                                        <path d="M37.5820833,11 L22.9704167,11" id="Shape"></path>
+                                        <path d="M37.5820833,24 L22.9704167,24" id="Shape"></path>
+                                        <path d="M37.5820833,36 L22.9704167,36" id="Shape"></path>
+                                        <ellipse id="Oval" cx="11.499375" cy="11.5085417" rx="3.10333333" ry="3.10333333"></ellipse>
+                                        <ellipse id="Oval" cx="11.499375" cy="24.0091667" rx="3.10333333" ry="3.10333333"></ellipse>
+                                        <ellipse id="Oval" cx="11.499375" cy="36.51" rx="3.10333333" ry="3.10333333"></ellipse>
+                                    </g>
+                                    <rect id="Rectangle-path" x="0" y="0" width="50" height="50"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
